@@ -1,6 +1,6 @@
 # Ankhur AI Terminal
 
-> **Your lightweight and scalable multi-chain co-pilot for Solana, Base, Optimism, and Arbitrum.**  
+> **Your lightweight and scalable multi-chain co-pilot for Ethereum, Solana, Base, Optimism, and Arbitrum.**  
 > Seamlessly navigate the crypto space, manage tokens, engage on social media, and stay informed with cutting-edge AI capabilities.
 
 ---
@@ -20,13 +20,19 @@
 
 ## Overview
 
-**Ankhur** is your personal Web3 AI assistant, designed to help you with everything from crypto transactions to social media management. Whether you're managing tokens on Base, Solana, Optimism, or Arbitrum, engaging on social media, or researching blockchain topics, Ankhur's advanced AI capabilities keep you ahead.
+**Ankhur** is your personal Web3 AI assistant, designed to help you with everything from crypto transactions to social media management. Whether you're managing tokens on Ethereum, Base, Solana, Optimism, or Arbitrum, engaging on social media, or researching blockchain topics, Ankhur's advanced AI capabilities keep you ahead.
 
 ---
 
 ## Key Features
 
 ### Blockchain Operations
+
+**Ethereum Operations** 🪙
+- Check wallet balances and ERC20 tokens
+- Execute ETH and ERC20 token transfers
+- Interact with smart contracts
+- Analyze gas fees and optimize transactions
 
 **Base Network Operations** 🔷
 - Check native and ERC20 token balances
@@ -79,8 +85,7 @@
 
 ## Community & Support
 
-- **Twitter** – Follow us on [Twitter](https://x.com/AnkhurHQ) for announcements, tips, and community news.
-- **Telegram** - Drop us a message at: [Telegram](https://t.me/ankhur_ai).
+- **Twitter** – Follow us on [Twitter](https://x.com/Ankhurai) for announcements, tips, and community news.
 - **GitHub** – Explore our open-source repositories on [GitHub](https://github.com/ankhur-ai).  
 
 If you have any questions, feature requests, or just want to say hello, feel free to reach out! We’re building Ankhur together with the community, one block at a time.
